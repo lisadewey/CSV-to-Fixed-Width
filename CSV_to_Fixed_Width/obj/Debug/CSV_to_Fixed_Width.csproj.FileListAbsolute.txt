@@ -1,0 +1,7 @@
+C:\Users\lmdew\Desktop\MW-exercises\CSV_to_Fixed_Width\CSV_to_Fixed_Width\bin\Debug\CSV_to_Fixed_Width.exe.config
+C:\Users\lmdew\Desktop\MW-exercises\CSV_to_Fixed_Width\CSV_to_Fixed_Width\bin\Debug\CSV_to_Fixed_Width.exe
+C:\Users\lmdew\Desktop\MW-exercises\CSV_to_Fixed_Width\CSV_to_Fixed_Width\bin\Debug\CSV_to_Fixed_Width.pdb
+C:\Users\lmdew\Desktop\MW-exercises\CSV_to_Fixed_Width\CSV_to_Fixed_Width\obj\Debug\CSV_to_Fixed_Width.csprojAssemblyReference.cache
+C:\Users\lmdew\Desktop\MW-exercises\CSV_to_Fixed_Width\CSV_to_Fixed_Width\obj\Debug\CSV_to_Fixed_Width.csproj.CoreCompileInputs.cache
+C:\Users\lmdew\Desktop\MW-exercises\CSV_to_Fixed_Width\CSV_to_Fixed_Width\obj\Debug\CSV_to_Fixed_Width.exe
+C:\Users\lmdew\Desktop\MW-exercises\CSV_to_Fixed_Width\CSV_to_Fixed_Width\obj\Debug\CSV_to_Fixed_Width.pdb
